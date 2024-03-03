@@ -1,7 +1,8 @@
 
 # Zombies Apocalypse 3D: The Resilient Saga of a 6-Month Odyssey 💪🎮
 
-<div align="center"><img src="Zombies/12.jpg" width="820" height="450">
+<div align="center">
+    <img src="Zombies/12.jpg" alt="Zombie Image" width="100%" style="max-width: 620px; height: auto;">
 </div>
 <br>
 
@@ -9,8 +10,9 @@ Greetings, intrepid explorer of the apocalypse! 🌌✨ Welcome to the immersive
 
 ## 🌟 Crafting Chaos and Mastering Creativity
 
-<div align="center"><img src="Zombies/1.jpg" width="820" height="450">
+<div align="center"><img src="Zombies/1.jpg" alt="Zombie Image" width="100%" style="max-width: 620px; height: auto;">
 </div>
+<br>
 
 
 **Zombies Apocalypse 3D** is not just a game; it's a symphony of chaos and creativity meticulously woven over six months of blood, sweat, and pixelated tears. Immerse yourself in an unparalleled gaming experience where each 3D model is a work of art, and every line of code tells a tale of resilience.
@@ -19,46 +21,46 @@ Greetings, intrepid explorer of the apocalypse! 🌌✨ Welcome to the immersive
 
 - **Visual Extravaganza:** Witness the apocalypse in all its glory with visually stunning 3D models that breathe life into the undead and environments, creating a mesmerizing dance of destruction.
   
-  <div align="center"><img src="Zombies/11.jpg" width="820" height="450">
+  <div align="center"><img src="Zombies/11.jpg" alt="Zombie Image" width="100%" style="max-width: 620px; height: auto;">
 </div>
 <br>
 
 
 - **Gameplay Revolution:** Unleash a barrage of endless bullets, navigate dynamic zombie spawns, and harness the strategic power of health regeneration. This isn't just a game; it's a revolution in gaming dynamics.
   
-  <div align="center"><img src="Zombies/3.jpg" width="820" height="450">
+  <div align="center"><img src="Zombies/3.jpg" alt="Zombie Image" width="100%" style="max-width: 620px; height: auto;">
 </div>
 <br>
 
 
 - **Coding Odyssey:** Traverse the challenging terrain of bugs, biases, and coding conundrums, emerging victorious with a polished masterpiece that stands as a beacon of code resilience.
   
-  <div align="center"><img src="Zombies/10.jpg" width="820" height="450">
+  <div align="center"><img src="Zombies/10.jpg" alt="Zombie Image" width="100%" style="max-width: 620px; height: auto;">
 </div>
 <br>
 
 ## 🌌 Illuminating the Struggles
 
-<div align="center"><img src="Zombies/5.jpg" width="820" height="450">
+<div align="center"><img src="Zombies/5.jpg" alt="Zombie Image" width="100%" style="max-width: 620px; height: auto;">
 </div>
 <br>
 
 - **Visual Marvels:** Marvel at the culmination of sleepless nights as intricately crafted 3D models and awe-inspiring graphics breathe life into the apocalypse.
 
-  <div align="center"><img src="Zombies/8.jpg" width="820" height="450">
+  <div align="center"><img src="Zombies/8.jpg" alt="Zombie Image" width="100%" style="max-width: 620px; height: auto;">
 </div>
 <br>
 
 - **Mechanical Marvels:** Journey through the intricate mechanics that shape the game. Dive into the codebase, a battlefield where challenges transformed into triumphs, birthing an unparalleled gaming experience.
 
-  <div align="center"><img src="Zombies/9.jpg" width="820" height="450">
+  <div align="center"><img src="Zombies/9.jpg" alt="Zombie Image" width="100%" style="max-width: 620px; height: auto;">
 </div>
 <br>
 
 
 - **Code Resilience:** Peer behind the curtain and witness how struggles evolved into victories, turning obstacles into stepping stones on the path to perfection.
 
-<div align="center"><img src="Zombies/7.jpg" width="820" height="450">
+<div align="center"><img src="Zombies/7.jpg" alt="Zombie Image" width="100%" style="max-width: 620px; height: auto;">
 </div>
 <br>
 
@@ -68,8 +70,7 @@ Greetings, intrepid explorer of the apocalypse! 🌌✨ Welcome to the immersive
 Embark on your immersive odyssey with these steps:
 
 ## 1. **Download the game only for PC 💻**    [Download ME 🤗 ⬇️📲](https://drive.google.com/file/d/1ldUp6EshSoRt-q3DbC7IneKfp0a4SY72/view?usp=drive_link)
-
-<div align="center"><img src="Zombies/5.jpg" width="820" height="450">
+<div align="center"><img src="Zombies/5.jpg" alt="Zombie Image" width="100%" style="max-width: 620px; height: auto;">
 </div>
 <br>
 
@@ -89,9 +90,9 @@ Survival has never been this exhilarating. Strap in, brave soul! 🔥💥🧟‍
 
 # The Symphony of Triumph: Unveiling the Saga of Zombies Apocalypse 3D  🌌💀
 
-<div align="center"><img src="Zombies/2.jpg" width="820" height="450">
+<div align="center"><img src="Zombies/2.jpg" alt="Zombie Image" width="100%" style="max-width: 620px; height: auto;">
 </div>
-<BR>
+<br>
 
 
 ## 🌈 The Emotional Resilience
@@ -100,7 +101,7 @@ Peeling back the layers of development reveals not just lines of code but a tale
 
 ### 🌊 Emotional Waves:
 
-<div align="center"><img src="Zombies/4.jpg" width="820" height="450">
+<div align="center"><img src="Zombies/4.jpg" alt="Zombie Image" width="100%" style="max-width: 620px; height: auto;">
 </div>
 <br>
 
@@ -112,7 +113,7 @@ Peeling back the layers of development reveals not just lines of code but a tale
 
 ## 🎨 Artistry in Adversity
 
-<div align="center"><img src="Zombies/6.jpg" width="820" height="450">
+<div align="center"><img src="Zombies/6.jpg" alt="Zombie Image" width="100%" style="max-width: 620px; height: auto;">
 </div>
 <br>
 
@@ -120,7 +121,7 @@ Witness the emotional artistry that emerged from adversity. Every struggle, bug,
 
 ### 🎭 Masterpieces of Emotion:
 
-<div align="center"><img src="Zombies/13.jpg" width="820" height="450">
+<div align="center"><img src="Zombies/13.jpg" alt="Zombie Image" width="100%" style="max-width: 620px; height: auto;">
 </div>
 <br>
 
