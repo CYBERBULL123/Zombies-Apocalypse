@@ -28,7 +28,7 @@ Embark on your immersive odyssey with these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/zombies-apocalypse-3d.git
+   git clone https://github.com/CYBERBULL123/Zombies-Apocalypse.git
    ```
 
 2. **Ignite Godot:**
