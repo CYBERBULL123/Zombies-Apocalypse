@@ -26,10 +26,7 @@ Greetings, intrepid explorer of the apocalypse! 🌌✨ Welcome to the immersive
 
 Embark on your immersive odyssey with these steps:
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/CYBERBULL123/Zombies-Apocalypse.git
-   ```
+## 1. **Download the game**    [download ⬇️📲](https://drive.google.com/file/d/1ldUp6EshSoRt-q3DbC7IneKfp0a4SY72/view?usp=drive_link)
 
 2. **Ignite Godot:**
    - Uncover the secrets of the project in the Godot Engine.
