@@ -1,3 +1,4 @@
+
 # Zombies Apocalypse 3D: The Resilient Saga of a 6-Month Odyssey 💪🎮
 
 <div align="center"><img src="Zombies/12.jpg" width="820" height="450">
@@ -66,7 +67,7 @@ Greetings, intrepid explorer of the apocalypse! 🌌✨ Welcome to the immersive
 
 Embark on your immersive odyssey with these steps:
 
-## 1. **Download the game**    [Download ME 🤗 ⬇️📲](https://drive.google.com/file/d/1ldUp6EshSoRt-q3DbC7IneKfp0a4SY72/view?usp=drive_link)
+## 1. **Download the game only for PC 💻**    [Download ME 🤗 ⬇️📲](https://drive.google.com/file/d/1ldUp6EshSoRt-q3DbC7IneKfp0a4SY72/view?usp=drive_link)
 
 <div align="center"><img src="Zombies/5.jpg" width="820" height="450">
 </div>
