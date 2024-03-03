@@ -1,32 +1,77 @@
 # Zombies Apocalypse 3D: The Resilient Saga of a 6-Month Odyssey 💪🎮
 
+<div align="center"><img src="Zombies/12.jpg" width="820" height="450">
+</div>
+<br>
+
 Greetings, intrepid explorer of the apocalypse! 🌌✨ Welcome to the immersive universe of **Zombies Apocalypse 3D**, a monumental journey that transcends the boundaries of game development. This six-month odyssey, fueled by passion and sleepless nights, has sculpted a game that is not merely a creation but a testament to unwavering dedication and relentless creativity.
 
 ## 🌟 Crafting Chaos and Mastering Creativity
+
+<div align="center"><img src="Zombies/1.jpg" width="820" height="450">
+</div>
+
 
 **Zombies Apocalypse 3D** is not just a game; it's a symphony of chaos and creativity meticulously woven over six months of blood, sweat, and pixelated tears. Immerse yourself in an unparalleled gaming experience where each 3D model is a work of art, and every line of code tells a tale of resilience.
 
 ### 🚀 Key Features:
 
 - **Visual Extravaganza:** Witness the apocalypse in all its glory with visually stunning 3D models that breathe life into the undead and environments, creating a mesmerizing dance of destruction.
+  
+  <div align="center"><img src="Zombies/11.jpg" width="820" height="450">
+</div>
+<br>
+
 
 - **Gameplay Revolution:** Unleash a barrage of endless bullets, navigate dynamic zombie spawns, and harness the strategic power of health regeneration. This isn't just a game; it's a revolution in gaming dynamics.
+  
+  <div align="center"><img src="Zombies/3.jpg" width="820" height="450">
+</div>
+<br>
+
 
 - **Coding Odyssey:** Traverse the challenging terrain of bugs, biases, and coding conundrums, emerging victorious with a polished masterpiece that stands as a beacon of code resilience.
+  
+  <div align="center"><img src="Zombies/10.jpg" width="820" height="450">
+</div>
+<br>
 
 ## 🌌 Illuminating the Struggles
 
+<div align="center"><img src="Zombies/5.jpg" width="820" height="450">
+</div>
+<br>
+
 - **Visual Marvels:** Marvel at the culmination of sleepless nights as intricately crafted 3D models and awe-inspiring graphics breathe life into the apocalypse.
+
+  <div align="center"><img src="Zombies/8.jpg" width="820" height="450">
+</div>
+<br>
 
 - **Mechanical Marvels:** Journey through the intricate mechanics that shape the game. Dive into the codebase, a battlefield where challenges transformed into triumphs, birthing an unparalleled gaming experience.
 
+  <div align="center"><img src="Zombies/9.jpg" width="820" height="450">
+</div>
+<br>
+
+
 - **Code Resilience:** Peer behind the curtain and witness how struggles evolved into victories, turning obstacles into stepping stones on the path to perfection.
+
+<div align="center"><img src="Zombies/7.jpg" width="820" height="450">
+</div>
+<br>
+
 
 ## 🚀 Launch into the Abyss
 
 Embark on your immersive odyssey with these steps:
 
-## 1. **Download the game**    [download ⬇️📲](https://drive.google.com/file/d/1ldUp6EshSoRt-q3DbC7IneKfp0a4SY72/view?usp=drive_link)
+## 1. **Download the game**    [Download ME 🤗 ⬇️📲](https://drive.google.com/file/d/1ldUp6EshSoRt-q3DbC7IneKfp0a4SY72/view?usp=drive_link)
+
+<div align="center"><img src="Zombies/5.jpg" width="820" height="450">
+</div>
+<br>
+
 
 2. **Ignite Godot:**
    - Uncover the secrets of the project in the Godot Engine.
@@ -41,13 +86,22 @@ The apocalypse beckons, and your input is invaluable! Report bugs, suggest enhan
 
 Survival has never been this exhilarating. Strap in, brave soul! 🔥💥🧟‍♂️
 
-# The Symphony of Triumph: Unveiling the Saga of Zombies Apocalypse 3D (Part 2) 🌌💀
+# The Symphony of Triumph: Unveiling the Saga of Zombies Apocalypse 3D  🌌💀
+
+<div align="center"><img src="Zombies/2.jpg" width="820" height="450">
+</div>
+<BR>
+
 
 ## 🌈 The Emotional Resilience
 
 Peeling back the layers of development reveals not just lines of code but a tale of emotional resilience. The struggles were the emotional fuel that propelled the project forward.
 
 ### 🌊 Emotional Waves:
+
+<div align="center"><img src="Zombies/4.jpg" width="820" height="450">
+</div>
+<br>
 
 - **Dark Abyss of Doubt:** In the late nights, doubt often crept in like a shadow, questioning the very essence of the project. But each doubt was met with determination, illuminating the path forward.
 
@@ -57,9 +111,18 @@ Peeling back the layers of development reveals not just lines of code but a tale
 
 ## 🎨 Artistry in Adversity
 
+<div align="center"><img src="Zombies/6.jpg" width="820" height="450">
+</div>
+<br>
+
 Witness the emotional artistry that emerged from adversity. Every struggle, bug, and sleepless night became brushstrokes on the canvas of **Zombies Apocalypse 3D**.
 
 ### 🎭 Masterpieces of Emotion:
+
+<div align="center"><img src="Zombies/13.jpg" width="820" height="450">
+</div>
+<br>
+
 
 - **Code as Poetry:** Transcend the binary realm; the code became poetry, expressing frustration, joy, and determination. Each line bore the emotional fingerprint of the creator.
 
